@@ -47,3 +47,9 @@ PriceSenseAI/
 
 ### Limitations
 This is an educational decision-support prototype. Included data is synthetic, competitor prices are simulated rather than collected from live retailers, and price recommendations rely on simplified observational relationships. The project does not guarantee revenue or profit improvements and should not be deployed for production pricing without real data, causal validation, legal review and human oversight.
+
+## Author
+
+**Mohamed Riyaz S.**  
+Integrated M.Tech, Computer Science and Engineering (Business Analytics)  
+VIT Chennai
